@@ -1,6 +1,11 @@
 
 return {
-  {
+{
+    "williamboman/mason.nvim"
+},
+
+
+{
     "yorumicolors/yorumi.nvim",
     lazy = false,    
     priority = 1000,
