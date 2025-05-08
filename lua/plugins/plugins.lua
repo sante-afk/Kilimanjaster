@@ -4,6 +4,10 @@ return {
     "williamboman/mason.nvim"
 },
 
+{
+  'stevearc/conform.nvim',
+  opts = {},
+},
 
 {
     "yorumicolors/yorumi.nvim",
