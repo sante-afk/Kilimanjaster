@@ -1,26 +1,21 @@
-# Kilimanjaster Neovim Config 🏔️  
-**Минималистичный и функциональный конфиг Neovim**  
-
+# Kilimanjaster Neovim Config 🏔️
+**Minimalistic and functional Neovim config**
 ---
 
-### 🔥 Особенности  
-- **Lazy.nvim** – молниеносная загрузка плагинов  
-- **Neo-tree** – удобная навигация по файлам  
-- **Yorumi** – тёмная тема без визуального шума
-- **Telescope** - расширяемый нечеткий поисковик по спискам
-- **Nvim-cmp** - плагин автодополнения
-- **Nvim-treesitter** - плагин для подсветки синтаксиса 
+## 🔥 Features
+- **Lazy.nvim** – lightning-fast plugin loading
+- **Neo-tree** – convenient file navigation
+- **Yorumi** – dark theme without visual noise
+- **Telescope** - extensible fuzzy list search engine
+- **Nvim-cmp** - autocompletion plugin
+- **Nvim-treesitter** - syntax highlighting plugin
 ---
 
-### ⚙️ Установка  
-1. Склонируйте репозиторий:  
-   ```sh
-   git clone https://github.com/Web-Scape-Technologies/Kilimanjaster.git ~/.config/nvim
-   
-2. Выполните синхронизацию плагинов:
-   ```sh
-   :Lazy sync
-   
-![Снимок экрана от 2025-04-20 11-46-43 (Изменен)](https://github.com/user-attachments/assets/29c0675e-1095-4d5c-9ca9-d1916b3c0266)
+## ⚙️ Installation
+1. Clone the repository:
+```sh
+git clone https://github.com/Web-Scape-Technologies/Kilimanjaster.git ~/.config/nvim
 
-
+2. Perform synchronization plugins:
+```sh
+:Lazy sync
