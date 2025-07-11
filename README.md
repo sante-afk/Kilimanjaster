@@ -1,6 +1,5 @@
 # Kilimanjaster Neovim Config 🏔️
-**Minimalistic and functional Neovim config**
----
+## Minimalistic and functional Neovim config
 
 ## 🔥 Features
 - **Lazy.nvim** – lightning-fast plugin loading
@@ -9,7 +8,6 @@
 - **Telescope** - extensible fuzzy list search engine
 - **Nvim-cmp** - autocompletion plugin
 - **Nvim-treesitter** - syntax highlighting plugin
----
 
 ## ⚙️ Installation
 1. Clone the repository:
