@@ -13,7 +13,8 @@ Minimalistic and functional Neovim config
 1. Clone the repository:
 ```sh
 git clone https://github.com/Web-Scape-Technologies/Kilimanjaster.git ~/.config/nvim
-
+```
 2. Perform synchronization plugins:
 ```sh
 :Lazy sync
+```
