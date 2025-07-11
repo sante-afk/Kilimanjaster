@@ -1,5 +1,5 @@
 # Kilimanjaster Neovim Config 🏔️
-## Minimalistic and functional Neovim config
+Minimalistic and functional Neovim config
 
 ## 🔥 Features
 - **Lazy.nvim** – lightning-fast plugin loading
