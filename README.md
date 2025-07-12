@@ -12,7 +12,7 @@ Minimalistic and functional Neovim config
 ## ⚙️ Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/Web-Scape-Technologies/Kilimanjaster.git ~/.config/nvim
+git clone https://github.com/sante-afk/Kilimanjaster.git ~/.config/nvim
 ```
 2. Perform synchronization plugins:
 ```sh
